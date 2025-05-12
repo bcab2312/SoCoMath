@@ -1,0 +1,512 @@
+Rank	Player	Team	Followers	Position	Height	Weight	City	State	Nationality
+1	LeBron James	Los Angeles Lakers	159,771,450	PF	6'9	250 lbs	New York	NY	United States
+2	Stephen Curry	Golden State Warriors	58,158,682	PG	6'2	185 lbs	Akron	OH	United States
+3	Russell Westbrook	Denver Nuggets	22,981,782	PG	6'3	200 lbs	Long Beach	CA	United States
+4	Kyrie Irving	Dallas Mavericks	20,310,585	PG/SG	6'2	195 lbs	Melbourne		United States / Australia
+5	Lonzo Ball	Chicago Bulls	18,209,699	PG	6'6	190 lbs	Los Angeles	CA	United States
+6	Klay Thompson	Dallas Mavericks	16,846,960	SG	6'6	220 lbs	Santa Cruz	CA	United States
+7	Giannis Antetokounmpo	Milwaukee Bucks	15,966,531	PF/C	7'0	243 lbs	Athens		Greece / Nigeria
+8	Kevin Durant	Phoenix Suns	13,727,100	SF/SG	6'10	240 lbs	Washington		United States
+9	Chris Paul	San Antonio Spurs	11,602,201	PG	6'0	175 lbs	Winston-Salem	NC	United States
+10	Luka Doncic	Los Angeles Lakers	10,580,400	PG/SG	6'7	230 lbs	Ljubljana		Slovenia
+11	LaMelo Ball	Charlotte Hornets	10,560,550	PG/SG	6'7	180 lbs	Chino Hills	CA	United States
+12	Jimmy Butler	Golden State Warriors	10,254,968	SF	6'8	230 lbs	Houston	TX	United States
+13	Damian Lillard	Milwaukee Bucks	10,185,681	PG	6'2	195 lbs	Oakland	CA	United States
+14	Paul George	Philadelphia Sixers	9,903,770	SF/PF	6'8	220 lbs	Palmdale	CA	United States
+15	Ja Morant	Memphis Grizzlies	9,776,876	PG	6'2	174 lbs	Memphis	TN	United States
+16	Bronny James	Los Angeles Lakers	7,997,705	PG/SG	6'3	190 lbs	Los Angeles	CA	United States
+17	Joel Embiid	Philadelphia Sixers	7,400,939	PG/SG	6'3	185 lbs	La Crosse	WI	Cameroon / United States
+18	Ben Simmons	Brooklyn Nets	7,303,540	PG/SF	6'10	240 lbs	Melbourne		Australia
+19	Jayson Tatum	Boston Celtics	7,292,697	SF	6'8	210 lbs	Boston	MA	United States
+20	Anthony Davis	Dallas Mavericks	7,177,121	PF/C	6'10	253 lbs	Chicago	IL	United States
+21	Dennis Schroder	Brooklyn Nets	6,086,847	PG	6'1	172 lbs	Braunschweig		Germany
+22	Devin Booker	Phoenix Suns	5,672,932	SG	6'5	206 lbs	Grand Rapids	MI	United States
+23	Trae Young	Atlanta Hawks	5,096,733	PG	6'1	164 lbs	Norman	OK	United States
+24	Zion Williamson	New Orleans Pelicans	5,061,770	PF/C	6'6	284 lbs	New Orleans	LA	United States
+25	Anthony Edwards	Minnesota Timberwolves	4,811,686	SG/PG	6'4	225 lbs	Atlanta	GA	United States
+26	Kyle Kuzma	Washington Wizards	4,736,724	SF/PF	6'9	221 lbs	Flint	MI	United States
+27	Victor Wembanyama	San Antonio Spurs	4,469,959	C	7'4	210 lbs	Le Chesnay		France
+28	Karl-Anthony Towns	Minnesota Timberwolves	4,357,788	C	7'0	248 lbs	Edison	NJ	United States / Dominican Republic
+29	Draymond Green	Golden State Warriors	4,149,202	PF	6'6	230 lbs	Saginaw	MI	United States
+30	Shai Gilgeous-Alexander	Oklahoma City Thunder	4,103,274	PG/SG	6'6	195 lbs	Hamilton		Canada
+31	Jaylen Brown	Boston Celtics	4,070,182	SG/SF	6'6	223 lbs	Marietta	GA	United States
+32	Donovan Mitchell	Cleveland Cavaliers	3,856,714	SG	6'1	215 lbs	Louisville	KY	United States
+33	D'Angelo Russell	Los Angeles Lakers	3,795,814	PG/SG	6'4	193 lbs	Los Angeles	CA	United States
+34	Tristan Thompson	Cleveland Cavaliers	3,788,193	C	6'9	250 lbs	Los Angeles	CA	United States
+35	Kevin Love	Miami Heat	3,518,257	PF	6'10	245 lbs	Atlanta	GA	United States
+36	DeMar DeRozan	Sacramento Kings	3,320,885	SG/SF	6'6	220 lbs	Compton	CA	United States
+37	Jalen Green	Houston Rockets	2,475,561	SF	6'0	180 lbs	Norfolk	VA	United States
+38	Tyler Herro	Miami Heat	2,345,169	SG/PG	6'5	195 lbs	Greenville	WI	United States
+39	Zach LaVine	Chicago Bulls	2,314,899	PG/SG	6'5	200 lbs	Seattle	WA	United States
+40	Jordan Poole	Washington Wizards	2,266,964	SG/PG	6'4	194 lbs	Milwaukee	WI	United States
+41	Brandon Ingram	New Orleans Pelicans	2,151,286	SF	6'8	190 lbs	Kinston	NC	United States
+42	Andrew Wiggins	Miami Heat	2,131,205	SF/SG	6'7	197 lbs	Toronto		Canada
+43	Jordan Clarkson	Utah Jazz	2,035,360	SG/PG	6'4	194 lbs	San Antonio	TX	United States / Philippines
+44	Seth Curry	Charlotte Hornets	2,002,930	PG	6'2	180 lbs	Liverpool	NY	United States
+45	Jared McCain	Philadelphia Sixers	1,859,708	PG/SG	6'4	215 lbs	Kitchener		United States
+46	DeAndre Jordan	Denver Nuggets	1,823,669	C	6'10	265 lbs	Houston	TX	United States
+47	Kristaps Porzingis	Boston Celtics	1,608,570	C	7'3	240 lbs	Liepaja		Latvia
+48	De'Aaron Fox	Sacramento Kings	1,536,375	PG	6'3	185 lbs	Cincinnati	OH	United States
+49	Austin Reaves	Los Angeles Lakers	1,465,684	PG/SG	6'5	197 lbs	Newark	AR	United States
+50	Dejounte Murray	New Orleans Pelicans	1,439,292	PG/SG	6'4	180 lbs	Seattle	WA	United States
+51	Kelly Oubre, Jr.	Philadelphia Sixers	1,408,702	PF	6'7	225 lbs	Toronto		United States
+52	Alex Caruso	Oklahoma City Thunder	1,381,578	PG/SG	6'4	186 lbs	College Station	TX	United States
+53	Kyle Lowry	Philadelphia Sixers	1,376,670	PG	6'0	196 lbs	Philadelphia	PA	United States
+54	Mac McClung	Orlando Magic	1,330,077	PG	6'1	185 lbs	Philadelphia	PA	United States
+55	Jamal Murray	Denver Nuggets	1,326,743	C/PF	6'11	255 lbs	Wellington		Canada
+56	Bradley Beal	Phoenix Suns	1,301,902	SG	6'4	207 lbs	St. Louis	MO	United States
+57	Kentavious Caldwell-Pope	Orlando Magic	1,297,176	SG/SF	6'5	204 lbs	Marietta	GA	United States
+58	Tyrese Haliburton	Indiana Pacers	1,285,682	PG/SG	6'5	185 lbs	Oshkosh	WI	United States
+59	Andre Drummond	Philadelphia Sixers	1,270,596	C	6'10	279 lbs	Mount Clemens	MI	United States
+60	Aaron Gordon	Denver Nuggets	1,255,232	PF	6'8	235 lbs	San Jose	CA	United States
+61	C.J. McCollum	New Orleans Pelicans	1,210,147	SG/SF	6'3	190 lbs	Canton	OH	United States
+62	Rob Dillingham	Minnesota Timberwolves	1,153,344	PG	6'2	175 lbs	null		United States
+63	Paolo Banchero	Orlando Magic	1,141,062	PF/SF	6'10	250 lbs	Seattle	WA	United States / Italy
+64	Brandon Williams	Dallas Mavericks	1,113,011	PG	6'2	190 lbs	null		United States
+65	Bam Adebayo	Miami Heat	1,089,650	C/PF	6'9	255 lbs	Newark	NJ	United States
+66	R.J. Barrett	Toronto Raptors	1,078,855	SF/SG	6'6	214 lbs	Toronto		Canada
+67	P.J. Tucker	Los Angeles Clippers	1,022,807	PF/C	6'5	235 lbs	Raleigh	NC	United States
+68	Julius Randle	New York Knicks	981,528	PF	6'8	250 lbs	New York	NY	United States
+69	Harrison Barnes	San Antonio Spurs	963,332	SF	6'8	225 lbs	Greenville	SC	United States
+70	Rui Hachimura	Los Angeles Lakers	932,956	SF/PF	6'8	230 lbs	Toyama		Japan
+71	Bol Bol	Phoenix Suns	930,082	C/PF	7'3	225 lbs	Khartoum		United States
+72	Josh Hart	New York Knicks	926,204	SF/PF	6'8	215 lbs	Rockford	IL	United States
+73	Yuki Kawamura	Memphis Grizzlies	921,637	SF/PF	6'7	205 lbs	Tokyo		Japan
+74	Jrue Holiday	Boston Celtics	898,657	PG	6'3	205 lbs	Indianapolis	IN	United States
+75	P.J. Washington	Dallas Mavericks	867,653	PF	6'7	230 lbs	Louisville	KY	United States
+76	Chet Holmgren	Oklahoma City Thunder	866,099	C	7'1	208 lbs	Minneapolis	MN	United States
+77	Rudy Gobert	Minnesota Timberwolves	835,646	C	7'1	258 lbs	Saint-Quentin		France
+78	Bogdan Bogdanovic	Atlanta Hawks	823,916	SG	6'6	205 lbs	Belgrade		Serbia
+79	Tyrese Maxey	Philadelphia Sixers	801,265	PG	6'2	200 lbs	Dallas	TX	United States
+80	Jalen Brunson	New York Knicks	799,636	PG	6'3	195 lbs	Arlington	TX	United States
+81	Marcus Smart	Memphis Grizzlies	798,410	PG/SG	6'3	220 lbs	Richardson	TX	United States
+82	Scottie Barnes	Toronto Raptors	748,188	SF/PF	6'7	225 lbs	West Palm Beach	FL	United States
+83	Al Horford	Boston Celtics	747,993	C/PF	6'9	245 lbs	Santo Domingo		Dominican Republic / United States
+84	Cade Cunningham	Detroit Pistons	739,842	PG/SG	6'6	220 lbs	Detroit	MI	United States
+85	Alperen Sengun	Houston Rockets	733,796	C/PF	6'11	243 lbs	Giresun		Turkey
+86	Pascal Siakam	Indiana Pacers	723,587	PF/C	6'8	230 lbs	Douala		Cameroon
+87	Michael Porter, Jr.	Denver Nuggets	712,573	SF/PF	6'8	215 lbs	Columbia	SC	United States
+88	Buddy Hield	Golden State Warriors	690,731	SG/PG	6'4	220 lbs	San Diego	CA	Bahamas
+89	Mohamed Bamba	Los Angeles Clippers	684,325	C	7'0	231 lbs	Harlem	NY	United States
+90	Gary Payton II	Golden State Warriors	677,098	SG/SF	6'3	195 lbs	Tacoma	WA	United States
+91	Cole Anthony	Orlando Magic	654,619	PG	6'3	198 lbs	Orlando	FL	United States
+92	Jonathan Kuminga	Golden State Warriors	640,158	SF/PF	6'8	230 lbs	San Diego	CA	Democratic Republic of the Congo
+93	Josh Christopher	Miami Heat	633,749	SG	6'4	210 lbs	Richmond	VA	United States
+94	Gui Santos	Golden State Warriors	631,822	PF/C	6'10	250 lbs	Miami	FL	Brazil / Portugal
+95	Fred VanVleet	Houston Rockets	630,605	PG	6'0	197 lbs	Toronto		United States
+96	Patty Mills	Utah Jazz	621,063	PG	6'3	190 lbs	Canberra		Australia
+97	Steven Adams	Houston Rockets	615,287	C	6'11	265 lbs	Rotorua		New Zealand
+98	Miles Bridges	Charlotte Hornets	600,878	SF/PF	6'8	230 lbs	Flint	MI	United States
+99	Clint Capela	Atlanta Hawks	600,607	C	6'10	256 lbs	Geneva		Switzerland
+100	Mike Conley	Minnesota Timberwolves	589,825	PG	6'1	175 lbs	Fayetteville	AR	United States
+101	Jaren Jackson, Jr.	Memphis Grizzlies	585,929	PF/C	6'11	242 lbs	Memphis	TN	United States
+102	Malik Monk	Sacramento Kings	562,264	SG	6'3	189 lbs	Bentonville	AR	United States
+103	Terry Rozier	Miami Heat	532,334	PG/SG	6'1	205 lbs	Youngstown	OH	United States
+104	Josh Giddey	Chicago Bulls	518,118	PG/SG	6'8	205 lbs	Melbourne		Australia
+105	Tim Hardaway Jr.	Detroit Pistons	496,302	SG	6'5	205 lbs	Miami	FL	United States
+106	Kevin Porter, Jr.	Los Angeles Clippers	494,640	SG/PG	6'4	185 lbs	Seattle	WA	United States
+107	Scotty Pippen, Jr.	Memphis Grizzlies	490,934	PG	6'4	185 lbs	Chicago	IL	United States
+108	Marvin Bagley III	Washington Wizards	490,777	PF/C	6'10	235 lbs	Sacramento	CA	United States
+109	Scoot Henderson	Portland Trail Blazers	482,534	PG/SG	6'2	183 lbs	Marietta	GA	United States
+110	Payton Pritchard	Boston Celtics	481,096	PG	6'6	215 lbs	Beaverton	OR	United States
+111	Jonathan Isaac	Orlando Magic	479,582	PF	6'10	230 lbs	Tampa	FL	United States
+112	Mikal Bridges	New York Knicks	478,873	SF/SG	6'6	209 lbs	Philadelphia	PA	United States
+113	James Wiseman	Indiana Pacers	471,761	C	7'0	240 lbs	Memphis	TN	United States
+114	Jarred Vanderbilt	Los Angeles Lakers	469,566	PF	6'9	232 lbs	Paradise Valley	AZ	United States
+115	Jalen Suggs	Orlando Magic	462,569	C/PF	6'11	243 lbs	null		United States
+116	Amen Thompson	Houston Rockets	453,195	SF/SG	6'7	209 lbs	Houston	TX	United States
+117	Tobias Harris	Detroit Pistons	451,598	SF	6'7	226 lbs	Long Island	NY	United States
+118	Deandre Ayton	Portland Trail Blazers	445,345	C	6'11	250 lbs	Nassau		Bahamas
+119	Kevon Looney	Golden State Warriors	445,248	C	6'4	220 lbs	Oakland	CA	United States
+120	Lauri Markkanen	Utah Jazz	433,700	PF/C	7'0	240 lbs	Vantaa		Finland
+121	Jeremy Sochan	San Antonio Spurs	425,971	SF/PF	6'8	230 lbs	Warsaw		United States / Poland
+122	Derrick White	Boston Celtics	416,041	SG/PG	6'4	190 lbs	Aurora	CO	United States
+123	Larry Nance, Jr.	Atlanta Hawks	412,795	PF	6'7	245 lbs	Akron	OH	United States
+124	Khris Middleton	Milwaukee Bucks	412,021	SG	6'7	230 lbs	Milwaukee	WI	United States
+125	Jaime Jaquez, Jr.	Miami Heat	410,993	SF	6'6	209 lbs	Camarillo	CA	United States
+126	Coby White	Chicago Bulls	407,012	PG/SG	6'4	195 lbs	Chicago	IL	United States
+127	Derrick Jones	Los Angeles Clippers	406,575	SF/PF	6'6	210 lbs	Chester	PA	United States
+128	Gradey Dick	Toronto Raptors	405,490	SG	6'6	200 lbs	Jacksonville	FL	United States
+129	Tyus Jones	Phoenix Suns	403,759	PG/SG	6'3	190 lbs	Minneapolis	MN	United States
+130	Jaden Hardy	Dallas Mavericks	401,426	PG/SG	6'5	215 lbs	Fort Worth	TX	United States
+131	Taj Gibson	Charlotte Hornets	400,221	PF/C	6'9	245 lbs	Brooklyn	NY	United States
+132	Jusuf Nurkic	Phoenix Suns	392,815	C	6'11	290 lbs	Tuzla		Bosnia and Herzegovina
+133	Bones Hyland	Los Angeles Clippers	384,444	PG/SG	6'2	169 lbs	Wilmington	DE	United States
+134	Chris Duarte	Chicago Bulls	380,733	SG/SF	6'6	190 lbs	Los Angeles	CA	Canada / Dominican Republic
+135	Domantas Sabonis	Sacramento Kings	379,813	PF/C	6'10	240 lbs	Kaunas		United States / Lithuania
+136	Dalton Knecht	Los Angeles Lakers	374,939	SF/SG	6'6	213 lbs	St. Louis	MO	United States
+137	Grayson Allen	Phoenix Suns	371,585	SG/SF	6'4	198 lbs	Huntersville	NC	United States
+138	Jalen Williams	Oklahoma City Thunder	342,289	SG/SF	6'5	195 lbs	Oklahoma City	OK	United States
+139	Myles Turner	Indiana Pacers	339,931	C	6'11	240 lbs	Bedford	TX	United States
+140	Ausar Thompson	Detroit Pistons	331,659	SF/PF	6'7	209 lbs	Detroit	MI	United States
+141	Naz Reid	Minnesota Timberwolves	329,502	C	6'9	264 lbs	Minneapolis	MN	United States
+142	Spencer Dinwiddie	Dallas Mavericks	326,483	PG/SG	6'4	220 lbs	Rancho Cucamonga	CA	United States
+143	Tre Mann	Charlotte Hornets	322,827	SG	6'4	185 lbs	Oklahoma City	OK	United States
+144	Matisse Thybulle	Portland Trail Blazers	319,922	SF/SG	6'5	201 lbs	Gilbert	AZ	United States / Australia
+145	Norman Powell	Los Angeles Clippers	316,242	SG	6'5	200 lbs	San Diego	CA	United States
+146	Bobby Portis	Milwaukee Bucks	314,621	PF/C	6'10	250 lbs	Little Rock	AR	United States
+147	J.D. Davison	Boston Celtics	309,693	PG	6'3	195 lbs	Mobile	AL	United States
+148	Jaxson Hayes	Los Angeles Lakers	309,332	C	6'11	220 lbs	Houston	TX	United States
+149	OG Anunoby	New York Knicks	305,969	SF	6'7	232 lbs	London		England / United States
+150	Talen Horton-Tucker	Chicago Bulls	305,383	SG/SF	6'5	210 lbs	Anaheim	CA	United States
+151	Obi Toppin	Indiana Pacers	303,925	PF	6'9	235 lbs	Cincinnati	OH	United States
+152	Nicolas Batum	Los Angeles Clippers	299,926	SF	6'8	230 lbs	Paris		France
+153	Max Christie	Los Angeles Lakers	297,941	SG	6'6	200 lbs	West Hills	CA	United States
+154	Monte Morris	Phoenix Suns	283,075	PG	6'2	190 lbs	Detroit	MI	United States / Nigeria
+155	Tre Jones	San Antonio Spurs	281,593	PG	6'1	185 lbs	Apple Valley	MN	United States
+156	Brandin Podziemski	Golden State Warriors	279,846	SF/PF	6'7	220 lbs	Santa Clara	CA	United States
+157	Jarrett Allen	Cleveland Cavaliers	278,541	C	6'11	243 lbs	Cleveland	OH	United States
+158	Duncan Robinson	Miami Heat	277,512	PG/SG	6'5	195 lbs	null		United States
+159	Moe Wagner	Orlando Magic	276,118	C	6'11	245 lbs	Berlin		Germany
+160	Damion Lee	Phoenix Suns	275,310	SG	6'5	200 lbs	Minneapolis	MN	United States
+161	Immanuel Quickley	Toronto Raptors	274,936	PG/SG	6'3	190 lbs	Lexington	KY	United States
+162	Grant Williams	Charlotte Hornets	274,371	SF/PF	6'6	228 lbs	Gainesville	FL	United States
+163	Dereck Lively II	Dallas Mavericks	267,698	C/PF	7'1	230 lbs	Dallas	TX	United States
+164	Franz Wagner	Orlando Magic	266,333	SF/PF	6'10	220 lbs	Orlando	FL	Germany
+165	Jonas Valanciunas	Washington Wizards	265,546	C	6'11	265 lbs	Utena		Lithuania
+166	Deni Avdija	Portland Trail Blazers	262,978	SF/PF	6'9	210 lbs	Herzliya		Israel
+167	Brandon Miller	Charlotte Hornets	261,245	SF/SG	6'9	202 lbs	Antioch	TN	United States
+168	Matas Buzelis	Chicago Bulls	259,590	SF/PF	6'9	215 lbs	null		United States / Lithuania
+169	Josh Richardson	Miami Heat	252,467	SG/SF	6'5	190 lbs	Los Angeles	CA	United States
+170	Christian Braun	Denver Nuggets	250,541	SF	6'7	190 lbs	Kalamazoo	MI	United States
+171	Malik Beasley	Detroit Pistons	250,160	SG	6'4	195 lbs	Baltimore	MD	United States
+172	Desmond Bane	Memphis Grizzlies	249,487	PG/SG	6'4	200 lbs	null		United States
+173	Gary Trent, Jr.	Milwaukee Bucks	249,069	SG	6'6	210 lbs	Raleigh	NC	United States
+174	Quentin Grimes	Dallas Mavericks	248,812	SG	6'5	205 lbs	Forest Hills	NY	United States
+175	Evan Mobley	Cleveland Cavaliers	245,956	PF/C	7'0	215 lbs	Los Angeles	CA	United States
+176	Matt Ryan	New Orleans Pelicans	244,785	SF/SG	6'6	208 lbs	White Plains	NY	United States
+177	Cam Thomas	Brooklyn Nets	243,466	SG	6'3	185 lbs	Queens	NY	United States
+178	Nikola Jovic	Miami Heat	242,756	SF/PF	6'10	205 lbs	Belgrade		Serbia
+179	Cameron Johnson	Brooklyn Nets	241,021	SF/PF	6'8	210 lbs	Hoboken	NJ	United States
+180	Moses Moody	Golden State Warriors	239,848	SG	6'6	205 lbs	Little Rock	AR	United States
+181	Eric Gordon	Philadelphia Sixers	238,549	SG	6'8	230 lbs	Nassau		United States / Bahamas
+182	Taurean Prince	Milwaukee Bucks	236,579	SF	6'6	220 lbs	Minneapolis	MN	United States
+183	Christian Wood	Los Angeles Lakers	235,291	PF/C	6'9	214 lbs	Long Beach	CA	United States
+184	Caris LeVert	Cleveland Cavaliers	233,558	SG/SF	6'6	205 lbs	Columbus	OH	United States
+185	Jaden Ivey	Detroit Pistons	233,432	PG	6'3	185 lbs	Chicago	IL	United States
+186	Robert Williams	Portland Trail Blazers	230,856	C/PF	6'9	237 lbs	Shreveport	LA	United States
+187	Luguentz Dort	Oklahoma City Thunder	229,493	SG	6'3	215 lbs	Montreal		Canada
+188	Doug McDermott	Sacramento Kings	224,305	SF/PF	6'7	220 lbs	Decatur	IL	United States
+189	Caleb Martin	Philadelphia Sixers	222,064	SF	6'5	205 lbs	Miami	FL	United States
+190	Davion Mitchell	Toronto Raptors	220,421	PG	6'0	185 lbs	Washington		United States
+191	Reggie Jackson	Charlotte Hornets	215,066	PG	6'3	190 lbs	Pordenone		Italy / United States
+192	Lester Quinones	Philadelphia Sixers	212,118	C/PF	6'9	225 lbs	Brentwood	NY	United States
+193	Jerami Grant	Portland Trail Blazers	210,781	SF/PF	6'8	210 lbs	Portland	OR	United States
+194	Dante Exum	Dallas Mavericks	210,131	PG/SG	6'5	214 lbs	Sydney		Australia
+195	MarJon Beauchamp	Milwaukee Bucks	209,845	SF/PF	6'7	220 lbs	null		United States
+196	Anfernee Simons	Portland Trail Blazers	208,061	SG	6'3	181 lbs	Portland	OR	United States
+197	Ayo Dosunmu	Chicago Bulls	207,811	PG/SG	6'4	200 lbs	Chicago	IL	United States
+198	Dillon Brooks	Houston Rockets	207,603	SF	6'7	225 lbs	Mississauga		Canada
+199	Luke Kennard	Memphis Grizzlies	200,388	SG	6'4	220 lbs	Seattle	WA	United States
+200	Shaedon Sharpe	Portland Trail Blazers	196,188	SG	6'6	200 lbs	London		Canada
+201	Precious Achiuwa	New York Knicks	191,901	PF/C	6'9	225 lbs	Lagos		Nigeria
+202	Josh Green	Charlotte Hornets	189,167	SF/SG	6'6	200 lbs	Sydney		United States / Australia
+203	Bennedict Mathurin	Indiana Pacers	187,887	SG/SF	6'5	210 lbs	Montreal		Canada / Haiti
+204	John Collins	Utah Jazz	187,589	PF/C	6'9	235 lbs	Atlanta	GA	United States
+205	Kyle Anderson	Golden State Warriors	183,504	SF/PF	6'9	230 lbs	Long Island	NY	United States / China
+206	Derrick Rose	Memphis Grizzlies	183,355	PG	6'2	200 lbs	Chicago	IL	United States
+207	Stephon Castle	San Antonio Spurs	183,268	PG/SG	6'6	200 lbs	null		United States
+208	Neemias Queta	Boston Celtics	182,732	C	6'11	245 lbs	Lisbon		Portugal
+209	Reed Sheppard	Houston Rockets	181,215	PG/SG	6'4	193 lbs	null		United States
+210	A.J. Johnson	Milwaukee Bucks	179,790	PG/SG	6'6	200 lbs	null		United States
+211	Jaylin Williams	Oklahoma City Thunder	179,583	C/PF	6'10	225 lbs	Fort Smith	AR	United States
+212	Keyonte George	Utah Jazz	178,739	SG	6'4	190 lbs	Dallas	TX	United States
+213	Mitchell Robinson	New York Knicks	178,476	C	6'5	195 lbs	New York	NY	United States
+214	Daniel Theis	New Orleans Pelicans	177,784	PF/C	6'9	245 lbs	Braunschweig		Germany
+215	Jalen Duren	Detroit Pistons	177,284	C	6'10	250 lbs	Detroit	MI	United States
+216	Simone Fontecchio	Detroit Pistons	176,573	SG	6'5	190 lbs	Padua		Italy
+217	Pat Connaughton	Milwaukee Bucks	176,369	SG	6'5	209 lbs	Arlington	VA	United States
+218	Gabe Vincent	Los Angeles Lakers	174,733	SG/PG	6'3	200 lbs	Palmdale	CA	United States / Nigeria
+219	Jordan Walsh	Boston Celtics	173,250	SF	6'8	195 lbs	Dallas	TX	United States
+220	Ivica Zubac	Los Angeles Clippers	171,625	C	6'10	243 lbs	Split		Bosnia and Herzegovina / Croatia
+221	Chris Boucher	Toronto Raptors	171,327	PF/C	6'9	200 lbs	Montreal		Saint Lucia / Canada
+222	Isaiah Hartenstein	Oklahoma City Thunder	170,641	C/PF	7'0	250 lbs	Osnabruck		United States / Germany
+223	Daniel Gafford	Dallas Mavericks	170,027	C/PF	6'10	234 lbs	El Dorado	AR	United States
+224	Kelly Olynyk	Toronto Raptors	170,024	C	6'11	240 lbs	Pensacola	FL	Canada
+225	Isaac Okoro	Cleveland Cavaliers	169,824	SG/SF	6'4	215 lbs	Youngstown	OH	United States
+226	Jaden Springer	Boston Celtics	169,209	PG/SG	6'4	202 lbs	Philadelphia	PA	United States
+227	Jabari Smith, Jr.	Houston Rockets	166,974	PF/C	6'9	220 lbs	Portsmouth	VA	United States
+228	Nickeil Alexander-Walker	Minnesota Timberwolves	166,894	SG/PG	6'5	205 lbs	Toronto		Canada
+229	Trayce Jackson-Davis	Golden State Warriors	166,713	PF	6'4	180 lbs	Seattle	WA	United States
+230	Max Strus	Cleveland Cavaliers	166,702	SG	6'6	195 lbs	Canton	OH	United States
+231	Zach Edey	Memphis Grizzlies	164,433	C	7'4	290 lbs	Toronto		Canada
+232	Nassir Little	Phoenix Suns	164,402	SF	6'5	220 lbs	Orlando	FL	United States
+233	Onyeka Okongwu	Atlanta Hawks	163,006	C/PF	6'9	240 lbs	Los Angeles	CA	United States
+234	Dyson Daniels	Atlanta Hawks	162,671	PG/SG	6'8	215 lbs	Bendigo		Australia
+235	Miles McBride	New York Knicks	161,063	PG	6'1	195 lbs	Cincinnati	OH	United States
+236	Keldon Johnson	San Antonio Spurs	160,837	SF	6'5	220 lbs	San Antonio	TX	United States
+237	Wendell Carter, Jr.	Orlando Magic	159,777	C	6'10	250 lbs	Orlando	FL	United States
+238	Trey Lyles	Sacramento Kings	158,955	PF	6'9	235 lbs	Saskatoon		Canada / United States
+239	Jaden McDaniels	Minnesota Timberwolves	158,192	SF/PF	6'9	185 lbs	Federal Way	WA	United States
+240	Anthony Black	Orlando Magic	157,999	PG/SG	6'7	198 lbs	Little Rock	AR	United States
+241	Bruce Brown, Jr.	Toronto Raptors	157,835	PG/SG	6'4	202 lbs	Boston	MA	United States
+242	Terance Mann	Los Angeles Clippers	157,138	SG/SF	6'5	215 lbs	Brooklyn	NY	United States
+243	Malcolm Brogdon	Washington Wizards	156,426	PG	6'4	190 lbs	Milwaukee	WI	United States
+244	Dorian Finney-Smith	Brooklyn Nets	156,240	SF/PF	6'7	220 lbs	Brooklyn	NY	United States
+245	Jalen Johnson	Atlanta Hawks	155,723	SF	6'8	215 lbs	Norfolk	VA	United States
+246	Bilal Coulibaly	Washington Wizards	155,614	SF	6'6	195 lbs	Saint-Germain-en-Laye		France
+247	Guerschon Yabusele	Philadelphia Sixers	154,600	PF/C	6'8	220 lbs	Kinshasa		DR Congo
+248	Nicolas Claxton	Brooklyn Nets	151,273	C	6'11	215 lbs	Queens	NY	United States / U.S. Virgin Islands
+249	Kai Jones	Los Angeles Clippers	150,604	C	7'0	245 lbs	Nassau		Bahamas
+250	Royce O'Neale	Phoenix Suns	148,289	SF	6'6	222 lbs	Harlem	NY	United States
+251	Maxi Kleber	Dallas Mavericks	146,344	PF	6'10	240 lbs	Wurzburg		Germany
+252	James Harden	Los Angeles Clippers	146,296	SG/SF	6'5	220 lbs	Miami	FL	United States
+253	Torrey Craig	Chicago Bulls	139,150	SF/PF	6'7	221 lbs	Atlanta	GA	United States
+254	Gary Harris	Orlando Magic	139,045	SG	6'4	190 lbs	Fishers	IN	United States
+255	Alex Len	Sacramento Kings	138,946	C	7'0	250 lbs	Kiev		Ukraine
+256	T.J. McConnell	Indiana Pacers	137,150	PG	6'1	190 lbs	Pittsburgh	PA	United States
+257	Ziaire Williams	Memphis Grizzlies	136,965	SF	6'8	185 lbs	Lancaster	CA	United States
+258	A.J. Griffin, Jr.	Houston Rockets	134,643	SF/SG	6'6	198 lbs	Ossining	NY	United States
+259	Ochai Agbaji	Toronto Raptors	134,038	SG	6'5	200 lbs	Kansas City	KS	United States
+260	Mark Williams	Charlotte Hornets	129,271	C	7'0	240 lbs	Norfolk	VA	United States
+261	Kevin Huerter	Sacramento Kings	128,604	PF/SF	6'10	251 lbs	Grand Rapids	MI	United States
+262	Luka Garza	Minnesota Timberwolves	128,453	C/PF	6'10	243 lbs	Sioux Falls	SD	United States / Bosnia and Herzegovina
+263	Alex Sarr	Washington Wizards	128,088	C/PF	7'0	236 lbs	Nancy		France
+264	Isaiah Stewart II	Detroit Pistons	128,030	C	6'9	250 lbs	Rochester	NY	United States
+265	Sasha Vezenkov	Toronto Raptors	126,180	PF	6'9	225 lbs	London		Cyprus / Bulgaria
+266	Nick Richards	Charlotte Hornets	125,512	C	6'11	245 lbs	Kingston		Jamaica
+267	Cam Whitmore	Houston Rockets	122,423	SF/PF	6'7	195 lbs	Raleigh	NC	United States
+268	Delon Wright	Milwaukee Bucks	119,191	PG/SG	6'5	185 lbs	Washington		United States
+269	Zaccharie Risacher	Atlanta Hawks	117,158	SF	6'8	200 lbs	Le Mans		Spain / France
+270	Dario Saric	Denver Nuggets	116,000	PF/C	6'10	240 lbs	Livno		Bosnia and Herzegovina
+271	Georges Niang	Cleveland Cavaliers	115,220	PF	6'7	230 lbs	Lawrence	KS	United States
+272	Dwight Powell	Dallas Mavericks	113,449	C	6'11	240 lbs	Toronto		Canada
+273	G.G. Jackson	Memphis Grizzlies	110,880	PF/C	6'9	210 lbs	Salvador		United States
+274	Walker Kessler	Utah Jazz	109,966	C	6'0	175 lbs	null		United States
+275	Devin Vassell	San Antonio Spurs	107,905	SG/SF	6'5	200 lbs	San Antonio	TX	United States
+276	Bruno Fernando	Atlanta Hawks	106,921	C	6'10	240 lbs	Luanda		Angola
+277	Isaiah Jackson	Indiana Pacers	106,451	PF/C	6'10	242 lbs	Pontiac	MI	United States
+278	Terrence Shannon, Jr.	Minnesota Timberwolves	106,342	SF	6'5	195 lbs	Chicago	IL	United States
+279	Josh Okogie	Phoenix Suns	105,755	SG/SF	6'4	205 lbs	Washington		United States
+280	Thomas Bryant	Miami Heat	105,600	C	6'10	248 lbs	Pittsburgh	PA	United States
+281	Jalen Hood-Schifino	Los Angeles Lakers	105,184	SG/PG	6'2	195 lbs	South Holland	IL	United States
+282	Brandon Clarke	Memphis Grizzlies	104,382	PF/C	6'8	215 lbs	Vancouver		Canada
+283	Isaiah Collier	Utah Jazz	103,806	PG/SG	6'3	185 lbs	Los Angeles	CA	United States
+284	Aaron Nesmith	Indiana Pacers	103,469	SF	6'5	215 lbs	null		United States
+285	Isaiah Joe	Oklahoma City Thunder	103,383	SG	6'4	200 lbs	Fort Smith	AR	United States
+286	Keegan Murray	Sacramento Kings	102,324	SF	6'8	225 lbs	Cedar Falls	IA	United States
+287	De'Andre Hunter	Atlanta Hawks	102,310	SF	6'7	220 lbs	Bronx	NY	United States
+288	Ty Jerome	Cleveland Cavaliers	101,161	PG/SG	6'3	195 lbs	New York	NY	United States
+289	Jevon Carter	Chicago Bulls	100,168	PG	6'1	200 lbs	Maywood	IL	United States
+290	Jalen Wilson	Brooklyn Nets	100,130	SF	6'8	225 lbs	New York	NY	United States
+291	De'Anthony Melton	Golden State Warriors	98,493	PG/SG	6'2	200 lbs	Philadelphia	PA	United States
+292	Darius Bazley	Utah Jazz	97,695	PF	6'8	220 lbs	Boston	MA	United States
+293	Jarace Walker	Indiana Pacers	95,625	PF	6'7	235 lbs	San Diego	CA	United States
+294	Zach Collins	San Antonio Spurs	95,394	PF/C	6'11	250 lbs	Las Vegas	NV	United States
+295	Andrew Nembhard	Indiana Pacers	94,729	PG	6'4	195 lbs	Aurora		Canada
+296	Kel'el Ware	Miami Heat	94,292	C/PF	6'10	235 lbs	Salt Lake City	UT	United States
+297	Donovan Clingan	Portland Trail Blazers	92,963	C	7'2	265 lbs	Bristol	CT	United States
+298	Peyton Watson	Denver Nuggets	92,600	SF/PF	6'8	200 lbs	Long Beach	CA	United States
+299	Oscar Tshiebwe	Utah Jazz	92,115	C	6'10	245 lbs	Lubumbashi		DR Congo
+300	Brook Lopez	Milwaukee Bucks	92,032	C	7'0	282 lbs	North Hollywood	CA	United States
+301	Andre Jackson, Jr.	Milwaukee Bucks	91,987	PG/SG	6'6	190 lbs	Hartford	CT	United States
+302	Sandro Mamukelashvili	San Antonio Spurs	91,607	C/PF	6'10	240 lbs	Tbilisi		Georgia
+303	Jericho Sims	New York Knicks	91,521	PF/C	6'10	205 lbs	Pittsburgh	PA	United States
+304	Johnny Juzang	Utah Jazz	90,392	PG/SG	6'4	220 lbs	Los Angeles	CA	United States
+305	Nick Smith, Jr.	Charlotte Hornets	90,281	SG	6'4	185 lbs	null		United States
+306	Javonte Green	New Orleans Pelicans	88,686	SG/SF	6'5	210 lbs	Cleveland	OH	United States
+307	P.J. Dozier	Minnesota Timberwolves	88,201	PG/SG	6'3	190 lbs	Durham	NC	United States
+308	Xavier Tillman, Sr.	Boston Celtics	86,924	C/PF	6'8	245 lbs	Memphis	TN	United States
+309	Cason Wallace	Oklahoma City Thunder	85,589	PG/SG	6'3	185 lbs	Oklahoma City	OK	United States
+310	Tari Eason	Houston Rockets	85,565	PF	6'8	216 lbs	Houston	TX	United States
+311	Quincy Olivari	Los Angeles Lakers	85,344	SF/PF	6'8	220 lbs	New York	NY	United States
+312	Ron Holland	Detroit Pistons	85,012	SF	6'6	205 lbs	Richardson	TX	United States
+313	Dariq Whitehead	Brooklyn Nets	82,759	SG	6'7	190 lbs	Newark	NJ	United States
+314	Chris Livingston	Milwaukee Bucks	82,611	SF	6'6	210 lbs	Charleston	WV	United States
+315	Aaron Wiggins	Oklahoma City Thunder	82,143	SG/SF	6'4	200 lbs	Oklahoma City	OK	United States
+316	Leaky Black	Charlotte Hornets	81,798	SF	6'8	205 lbs	Concord	NC	United States
+317	Jordan Hawkins	New Orleans Pelicans	81,232	SF/SG	6'4	205 lbs	New Orleans	LA	United States
+318	Herb Jones	New Orleans Pelicans	80,606	SF/PF	6'3	190 lbs	Greensboro	AL	United States
+319	Sam Hauser	Boston Celtics	80,052	SF	6'3	190 lbs	Green Bay	WI	United States
+320	Day'Ron Sharpe	Brooklyn Nets	78,314	C	6'9	220 lbs	Brooklyn	NY	United States
+321	Jakob Poeltl	Toronto Raptors	77,270	C	7'1	245 lbs	Vienna		Austria
+322	Jason Preston	Utah Jazz	76,837	PG	6'1	180 lbs	Orlando	FL	United States
+323	Alex Fudge	Dallas Mavericks	75,909	SF/PF	6'9	210 lbs	null		United States
+324	Wendell Moore, Jr.	Detroit Pistons	75,645	SG	6'5	213 lbs	Fort Worth	TX	United States
+325	Corey Kispert	Washington Wizards	74,919	SF/SG	6'6	204 lbs	Arlington	VA	United States
+326	Quinten Post	Golden State Warriors	73,957	PF/C	6'9	235 lbs	Turlock	CA	United States
+327	Aaron Holiday	Houston Rockets	73,921	PG	6'0	185 lbs	Campbell Hall	CA	United States
+328	Eugene Omoruyi	Washington Wizards	73,137	SF/PF	6'7	240 lbs	Toronto		Canada
+329	Trendon Watford	Brooklyn Nets	72,975	PF	6'8	210 lbs	null		United States
+330	Paul Reed, Jr.	Detroit Pistons	72,590	PF/C	6'9	210 lbs	Kansas City	MO	United States
+331	Trey Jemison	Memphis Grizzlies	72,126	C	6'10	250 lbs	null		United States
+332	Santi Aldama	Memphis Grizzlies	71,856	PF	6'9	225 lbs	Las Palmas		Spain
+333	Vasilije Micic	Charlotte Hornets	71,153	PG/SG	6'4	192 lbs	Belgrade		Serbia
+334	Kyle Filipowski	Utah Jazz	68,798	C/PF	6'9	220 lbs	Minneapolis	MN	United States
+335	Dalano Banton	Portland Trail Blazers	68,760	SF	6'4	204 lbs	Toronto		Canada
+336	Shake Milton	Brooklyn Nets	67,564	PG/SG	6'5	196 lbs	Miami	FL	United States
+337	Johnny Davis	Washington Wizards	67,518	PG/SG	6'2	190 lbs	Jackson	MS	United States
+338	Tristan Vukcevic	Washington Wizards	67,511	C/PF	6'9	229 lbs	Belgrade		Italy / Serbia
+339	Malaki Branham	San Antonio Spurs	67,187	SG	6'4	185 lbs	San Antonio	TX	United States
+340	Jett Howard	Orlando Magic	65,181	SF	6'7	195 lbs	Minneapolis	MN	United States
+341	Lindy Waters III	Golden State Warriors	64,222	SG	6'5	200 lbs	Norman	OK	United States
+342	Jared Butler	Washington Wizards	63,820	PG	6'3	193 lbs	Norfolk	VA	United States
+343	Richaun Holmes	Washington Wizards	62,137	C	6'10	235 lbs	Rochester	NY	United States
+344	Collin Gillespie	Phoenix Suns	61,981	PG	6'3	190 lbs	Philadelphia	PA	United States
+345	Cody Martin	Charlotte Hornets	61,420	SF	6'5	205 lbs	Charlotte	NC	United States
+346	Onuralp Bitim	Chicago Bulls	61,394	SF/PF	6'6	200 lbs	Istanbul		Turkey
+347	Jock Landale	Houston Rockets	61,054	C/PF	7'0	280 lbs	Yaounde		Australia
+348	David Duke	San Antonio Spurs	61,047	PF/C	6'8	240 lbs	Chicago	IL	United States
+349	Saddiq Bey	Washington Wizards	60,727	SF	6'7	215 lbs	Detroit	MI	United States
+350	Tyler Kolek	New York Knicks	60,251	PG	6'1	175 lbs	null		United States
+351	Maxwell Lewis	Los Angeles Lakers	60,231	SF	6'7	205 lbs	Los Angeles	CA	United States
+352	Jacob Toppin	New York Knicks	60,097	PF/C	6'10	235 lbs	Washington		United States
+353	David Roddy	Phoenix Suns	60,047	SF/PF	6'5	235 lbs	Jacksonville	FL	United States
+354	Baylor Scheierman	Boston Celtics	60,043	SF/SG	6'7	205 lbs	null		United States
+355	Julian Strawther	Denver Nuggets	59,450	SF/SG	6'7	205 lbs	Las Vegas	NV	United States / Puerto Rico
+356	Brice Sensabaugh	Utah Jazz	59,376	SF	6'6	215 lbs	null		United States
+357	Garrett Temple	Toronto Raptors	59,028	PG	6'5	195 lbs	Gastonia	NC	United States
+358	Justin Edwards	Philadelphia Sixers	58,123	SF	6'6	202 lbs	Detroit	MI	United States
+359	Johnny Furphy	Indiana Pacers	57,662	SG/PG	6'4	190 lbs	null		Australia
+360	Jalen Smith	Chicago Bulls	57,436	PF	6'9	220 lbs	Baltimore	MD	United States
+361	Taylor Hendricks	Utah Jazz	57,262	PF	6'8	215 lbs	Tampa	FL	United States
+362	Jaylen Wells	Memphis Grizzlies	56,613	SF	6'7	215 lbs	null		United States
+363	Daishen Nix	Minnesota Timberwolves	56,131	PG/SG	6'5	200 lbs	Houston	TX	United States
+364	Jalen McDaniels	Sacramento Kings	54,960	SF/PF	6'8	225 lbs	Rochester	NY	United States
+365	Cody Williams	Utah Jazz	54,887	SF/SG	6'7	205 lbs	Denver	CO	United States
+366	Mamadi Diakite	Brooklyn Nets	54,553	PF/C	6'9	230 lbs	Guinea		Guinea
+367	Tristan Da Silva	Orlando Magic	54,512	SF/PF	6'7	215 lbs	Munich		Germany / Brazil
+368	Christian Koloko	Los Angeles Lakers	54,496	C/PF	6'11	240 lbs	Kinshasa		DR Congo
+369	Jaylen Nowell	New Orleans Pelicans	53,531	SG/SF	6'5	220 lbs	Seattle	WA	United States
+370	Ousmane Dieng	Oklahoma City Thunder	53,488	SF/PF	6'9	215 lbs	Paris		France
+371	Ja'Kobe Walter	Toronto Raptors	52,763	SF/SG	6'7	200 lbs	Dallas	TX	United States
+372	E.J. Liddell	Atlanta Hawks	52,521	SF/PF	6'7	215 lbs	Columbus	OH	United States
+373	Patrick Baldwin, Jr.	Washington Wizards	51,404	PF	6'9	220 lbs	Milwaukee	WI	United States
+374	Ricky Council IV	Philadelphia Sixers	51,150	SF	6'7	220 lbs	null		United States
+375	Pelle Larsson	Miami Heat	51,041	SG	6'4	185 lbs	Stockholm		Sweden
+376	Jordan McLaughlin	Sacramento Kings	50,369	PG/SG	6'1	180 lbs	null		United States
+377	Cole Swider	Detroit Pistons	48,931	SG/SF	6'5	210 lbs	Corpus Christi	TX	United States
+378	Vit Krejci	Atlanta Hawks	48,915	SG/SF	6'7	200 lbs	Dubnica nad Váhom		Slovakia
+379	Goga Bitadze	Orlando Magic	48,733	SF/PF	6'6	205 lbs	Colorado Springs	CO	Georgia
+380	Toumani Camara	Portland Trail Blazers	48,703	SF/PF	6'8	220 lbs	Brussels		Belgium
+381	Harrison Ingram	San Antonio Spurs	47,906	PF/C	6'8	220 lbs	Chattanooga	TN	United States
+382	Kris Murray	Portland Trail Blazers	46,855	SF/PF	6'8	225 lbs	Cedar Rapids	IA	United States
+383	Nikola Topic	Oklahoma City Thunder	46,295	PG	6'4	185 lbs	Belgrade		Serbia
+384	Antonio Reeves	New Orleans Pelicans	46,047	PF/C	6'6	215 lbs	Orlando	FL	United States
+385	Adem Bona	Philadelphia Sixers	45,836	PF/C	6'8	220 lbs	Accra		Ghana
+386	Dean Wade	Cleveland Cavaliers	45,685	PF	6'9	230 lbs	Kansas City	KS	United States
+387	Jaylen Martin	Brooklyn Nets	45,224	SG	6'5	195 lbs	null		United States
+388	Cui Yongxi	Brooklyn Nets	45,095	SF/PF	6'7	205 lbs	Beijing		China
+389	Cody Zeller	Atlanta Hawks	44,433	C	6'11	240 lbs	Washington	IN	United States
+390	Trentyn Flowers	Los Angeles Clippers	44,166	SG/SF	6'7	205 lbs	Newark	NJ	United States
+391	Jake LaRavia	Memphis Grizzlies	43,048	PF	6'8	228 lbs	Sun Prairie	WI	United States
+392	Kobe Bufkin	Atlanta Hawks	42,916	SG	6'3	185 lbs	null		United States
+393	Bub Carrington	Washington Wizards	41,773	PG	6'3	185 lbs	null		United States
+394	Tyler Smith	Milwaukee Bucks	41,239	PG/SG	6'6	205 lbs	null		United States
+395	Keita Bates-Diop	New York Knicks	41,234	SF/PF	6'7	230 lbs	Atlanta	GA	United States
+396	Marcus Sasser	Detroit Pistons	40,995	PG	6'2	195 lbs	Detroit	MI	United States
+397	Ryan Dunn	Phoenix Suns	40,484	SF	6'4	185 lbs	Rochester	NY	United States
+398	Naji Marshall	Dallas Mavericks	40,417	SF	6'7	220 lbs	Kenner	LA	United States
+399	Bryce McGowens	Portland Trail Blazers	40,085	SG/SF	6'6	196 lbs	Charleston	SC	United States
+400	Zeke Nnaji	Denver Nuggets	39,076	PF/C	6'9	240 lbs	Minneapolis	MN	United States
+401	Leonard Miller	Minnesota Timberwolves	38,770	SF	6'7	210 lbs	Toronto		Canada
+402	Jamal Shead	Toronto Raptors	38,110	PG	6'1	180 lbs	Houston	TX	United States
+403	Keon Ellis	Sacramento Kings	37,938	PG/SG	6'4	185 lbs	null		United States
+404	Duop Reath	Portland Trail Blazers	37,466	C/PF	6'11	245 lbs	Perth		Australia
+405	Yves Missi	New Orleans Pelicans	37,131	C	6'11	230 lbs	Douala		Cameroon
+406	Colby Jones	Sacramento Kings	36,900	SG/SF	6'4	190 lbs	Cincinnati	OH	United States
+407	Kevin McCullar, Jr.	New York Knicks	36,882	SF/PF	6'7	220 lbs	Washington		United States
+408	Olivier-Maxence Prosper	Dallas Mavericks	36,567	SF/PF	6'8	220 lbs	Montreal		Canada
+409	Haywood Highsmith	Miami Heat	36,302	SF/SG	6'7	210 lbs	Cordova	TN	United States
+410	Drew Eubanks	Utah Jazz	35,878	C/PF	6'10	240 lbs	Greenville	SC	United States
+411	Jeremiah Robinson-Earl	New Orleans Pelicans	35,150	PF/C	6'9	225 lbs	Santa Fe	NM	United States
+412	Jordan Miller	Los Angeles Clippers	35,106	SG/SF	6'6	205 lbs	Fort Lauderdale	FL	United States
+413	A.J. Lawson	Dallas Mavericks	34,920	SG/SF	6'6	205 lbs	Surrey		Canada
+414	Kyshawn George	Washington Wizards	34,638	SG	6'6	190 lbs	null		Switzerland
+415	Jack McVeigh	Houston Rockets	34,312	PF/C	6'8	220 lbs	Needham	MA	United States
+416	Vlatko Cancar	Denver Nuggets	33,635	C/PF	6'8	230 lbs	Koper		Slovenia
+417	Tidjane Salaun	Charlotte Hornets	33,612	SF	6'6	190 lbs	Paris		France
+418	Sidy Cissoko	San Antonio Spurs	33,402	SF/SG	6'6	195 lbs	Poitiers		France
+419	D.J. Carton	Toronto Raptors	32,948	PG	6'2	185 lbs	null		United States
+420	Sam Merrill	Cleveland Cavaliers	32,365	SG	6'4	195 lbs	Milwaukee	WI	United States
+421	Kobe Brown	Los Angeles Clippers	31,108	PG/SG	6'3	200 lbs	Long Beach	CA	United States
+422	Alondes Williams	Detroit Pistons	31,056	SG/SF	6'6	210 lbs	Atlanta	GA	United States
+423	Jabari Walker	Portland Trail Blazers	30,922	PG/SG	6'8	215 lbs	null		United States
+424	Tristen Newton	Indiana Pacers	30,471	PF/C	6'8	230 lbs	Livingston	NJ	United States
+425	Moussa Diabate	Charlotte Hornets	30,403	SF/PF	6'6	220 lbs	Bamako		Mali
+426	DaRon Holmes II	Denver Nuggets	30,202	PF/C	6'8	230 lbs	Dayton	OH	United States
+427	Julian Champagnie	San Antonio Spurs	29,730	SF/PF	6'7	200 lbs	Brooklyn	NY	United States
+428	Jaylon Tyson	Cleveland Cavaliers	29,103	SG/SF	6'6	223 lbs	Boston	MA	United States
+429	Amir Coffey	Los Angeles Clippers	28,659	SF/PF	6'6	215 lbs	Burbank	CA	United States
+430	Justin Minaya	Portland Trail Blazers	28,362	PG/SG	6'3	190 lbs	null		United States / Dominican Republic
+431	Colin Castleton	Los Angeles Lakers	28,243	C	6'9	250 lbs	Miami	FL	United States
+432	Bobi Klintman	Detroit Pistons	28,170	SF	6'7	205 lbs	Örebro		Sweden
+433	P.J. Hall	Denver Nuggets	28,104	C/PF	6'8	240 lbs	null		United States
+434	Mason Jones	Sacramento Kings	27,767	SG/SF	6'4	200 lbs	null		United States
+435	Ryan Rollins	Milwaukee Bucks	27,407	PG	6'3	180 lbs	Toledo	OH	United States
+436	Rayan Rupert	Portland Trail Blazers	27,234	PG	6'7	195 lbs	Paris		France
+437	Jamal Cain	New Orleans Pelicans	25,982	PF	6'6	220 lbs	Los Angeles	CA	United States
+438	Kendall Brown	Indiana Pacers	24,642	SG	6'5	205 lbs	Oklahoma City	OK	United States
+439	Luke Travers	Cleveland Cavaliers	24,586	SF/PF	6'7	220 lbs	Cleveland	OH	United States
+440	Julian Phillips	Chicago Bulls	24,397	SF/PF	6'7	215 lbs	Chicago	IL	United States
+441	Marcus Domask	Chicago Bulls	23,864	PG/SG	6'6	200 lbs	null		United States
+442	Jose Alvarado	New Orleans Pelicans	23,766	PG	6'0	175 lbs	Brooklyn	NY	United States / Puerto Rico
+443	Taze Moore	Portland Trail Blazers	23,530	SG/SF	6'5	210 lbs	Chicago	IL	United States
+444	Josh Minott	Minnesota Timberwolves	23,436	PG/SG	6'5	190 lbs	null		United States
+445	Cameron Christie	Los Angeles Clippers	23,222	SG	6'5	195 lbs	Rolling Meadows	IL	United States
+446	Noah Clowney	Brooklyn Nets	22,494	C	6'10	210 lbs	Spartanburg	SC	United States
+447	Trey Alexander	Denver Nuggets	22,123	PG	6'4	185 lbs	null		United States
+448	K.J. Simpson	Charlotte Hornets	22,015	PG	6'3	185 lbs	null		United States
+449	Keshad Johnson	Miami Heat	21,735	SF/PF	6'8	220 lbs	null		United States
+450	Mouhamed Gueye	Atlanta Hawks	21,661	PF/C	6'9	230 lbs	Dakar		Senegal
+451	Ariel Hukporti	New York Knicks	21,541	C/PF	7'0	235 lbs	Hamburg		Germany / Togo
+452	Kessler Edwards	Dallas Mavericks	21,384	SG/SF	6'5	220 lbs	Elgin	IL	United States
+453	Justin Champagnie	Washington Wizards	21,074	SF	6'6	210 lbs	Brooklyn	NY	United States
+454	Reece Beekman	Golden State Warriors	20,893	PG	6'3	190 lbs	null		United States
+455	Pacome Dadiet	New York Knicks	20,699	SF	6'2	195 lbs	Paris		France
+456	Anton Watson	Boston Celtics	20,420	SF	6'7	215 lbs	Tucson	AZ	United States
+457	Jermaine Samuels	Houston Rockets	20,128	SF/PF	6'1	175 lbs	null		United States
+458	Trevelin Queen	Orlando Magic	19,885	PG/SG	6'4	190 lbs	Queens	NY	United States
+459	Tyrese Martin	Brooklyn Nets	19,711	SG/SF	6'4	215 lbs	Plano	TX	United States
+460	Hunter Tyson	Denver Nuggets	19,486	SG	6'5	205 lbs	Detroit	MI	United States
+461	Vincent Williams, Jr.	Memphis Grizzlies	19,332	PG/SG	6'4	190 lbs	null		United States
+462	Adama Sanogo	Chicago Bulls	19,286	C	6'10	255 lbs	Bamako		Mali
+463	Ben Sheppard	Indiana Pacers	19,161	SG	6'4	190 lbs	Indianapolis	IN	United States
+464	Jalen Bridges	Phoenix Suns	18,646	PG	6'1	190 lbs	New Brunswick	NJ	United States
+465	Oso Ighodaro	Phoenix Suns	18,642	C	6'10	215 lbs	Milwaukee	WI	United States
+466	Ajay Mitchell	Oklahoma City Thunder	18,376	PG/SG	6'3	180 lbs	Mechelen		Belgium
+467	Armel Traore	Los Angeles Lakers	17,975	SF	6'8	215 lbs	Paris		France
+468	Craig Porter, Jr.	Cleveland Cavaliers	17,900	PG/SG	6'1	185 lbs	null		United States
+469	Dillon Jones	Oklahoma City Thunder	17,504	SF	6'7	220 lbs	null		United States
+470	Drew Peterson	Boston Celtics	17,380	PG/SG	6'8	205 lbs	Phoenix	AZ	United States
+471	Malcolm Hill	New Orleans Pelicans	17,035	SF	6'5	195 lbs	null		United States
+472	Dominick Barlow	Atlanta Hawks	17,031	SG/PG	6'3	200 lbs	St. Louis	MO	United States
+473	Jeff Dowtin	Philadelphia Sixers	16,896	PG/SG	6'3	200 lbs	Philadelphia	PA	United States
+474	Jonathan Mogbo	Toronto Raptors	16,056	SG/SF	6'7	220 lbs	West Palm Beach	FL	United States
+475	Quenton Jackson	Indiana Pacers	15,986	SG/SF	6'6	220 lbs	Pontiac	MI	United States
+476	Blake Hinson	Los Angeles Lakers	15,392	SF/PF	6'8	215 lbs	null		United States
+477	Boo Buie	New York Knicks	15,179	PG	6'2	180 lbs	Albany	NY	United States
+478	Garrison Mathews	Atlanta Hawks	15,018	SG	6'5	205 lbs	Scottsdale	AZ	United States
+479	Jalen Pickett	Denver Nuggets	14,654	PG	6'4	180 lbs	State College	PA	United States
+480	Orlando Robinson	Sacramento Kings	14,476	PF/C	6'10	235 lbs	Amarillo	TX	United States
+481	Micah Potter	Utah Jazz	13,915	C/PF	6'8	220 lbs	Cleveland	OH	United States
+482	Stanley Umude	Milwaukee Bucks	13,282	SG	6'6	195 lbs	null		United States
+483	Jesse Edwards	Minnesota Timberwolves	13,251	PF	6'10	235 lbs	Reading	PA	Netherlands
+484	N'Faly Dante	Houston Rockets	13,243	C	6'11	230 lbs	Bamako		Mali
+485	Ulrich Chomche	Toronto Raptors	13,182	SF/PF	6'8	215 lbs	Douala		Cameroon
+486	Jamaree Bouyea	San Antonio Spurs	12,206	PG	6'0	175 lbs	New Orleans	LA	United States
+487	Isaiah Stevens	Miami Heat	12,203	PG	6'5	195 lbs	Las Vegas	NV	United States
+488	Enrique Freeman	Indiana Pacers	11,912	SG/SF	6'6	220 lbs	Philadelphia	PA	United States
+489	Javon Freeman-Liberty	Toronto Raptors	11,200	SG	6'4	195 lbs	null		United States
+490	Dru Smith	Miami Heat	11,173	PG/SG	6'3	190 lbs	null		United States
+491	Jamison Battle	Toronto Raptors	11,005	SG/SF	6'5	205 lbs	Toronto		Canada
+492	Adam Flagler	Oklahoma City Thunder	10,525	PG	6'1	185 lbs	Dallas	TX	United States
+493	Patrick Williams	Chicago Bulls	10,374	SF	6'7	220 lbs	Charlotte	NC	United States
+494	Jared Rhoden	Charlotte Hornets	10,033	PF/C	6'9	245 lbs	Chicago	IL	United States
+495	Branden Carlson	Toronto Raptors	9,322	C	7'0	228 lbs	South Jordan	UT	United States
+496	Alex Ducas	Oklahoma City Thunder	9,029	SG/SF	6'6	220 lbs	Cleveland	OH	United States
+497	Tristan Enaruna	Boston Celtics	8,952	SF	6'6	195 lbs	null		Netherlands
+498	Tosan Evbuomwan	Detroit Pistons	8,855	SF/PF	6'8	213 lbs	Newcastle		England
+499	Isaac Jones	Sacramento Kings	8,838	PG/SG	6'3	190 lbs	null		United States
+500	Keaton Wallace	Atlanta Hawks	8,051	SG	6'5	200 lbs	Tacoma	WA	United States
+501	Raiquan Gray	Chicago Bulls	7,986	PF	6'8	220 lbs	null		United States
+502	Daniss Jenkins	Detroit Pistons	7,749	PG	6'0	180 lbs	null		United States
+503	Devin Carter	Sacramento Kings	7,283	PG/SG	6'6	220 lbs	null		United States
+504	Andrew Funk	Chicago Bulls	7,201	SG/SF	6'4	205 lbs	null		United States
+505	Zyon Pullin	Miami Heat	6,256	PG/SG	6'8	225 lbs	West Palm Beach	FL	United States
+506	Jaylin Galloway	Milwaukee Bucks	5,217	SF	6'8	210 lbs	Seattle	WA	United States / Australia
+507	Liam Robbins	Milwaukee Bucks	5,092	C	7'0	250 lbs	Davenport	IA	United States
+508	Spencer Jones	Denver Nuggets	3,805	SG/SF	6'4	200 lbs	Austin	TX	United States
+509	Dalen Terry	Chicago Bulls	1,832	SF/PF	6'7	195 lbs	Chicago	IL	United States
+510	Mason Plumlee	Phoenix Suns	1,028	C	6'11	235 lbs	Saint Paul	MN	United States
+511	Darius Garland	Cleveland Cavaliers	43	PG	6'1	192 lbs	Gary	IN
