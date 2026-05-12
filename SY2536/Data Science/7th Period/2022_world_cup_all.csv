@@ -1,0 +1,65 @@
+ID,Year,Date,Stage,Home Team,Home FIFA rank,Home Team Group,Host Team,Away Team,Away FIFA rank,Away Team Group
+1,2022,11/20/2022,Group stage,Qatar,50,A,TRUE,Ecuador,44,A
+2,2022,11/21/2022,Group stage,Senegal,18,A,FALSE,Netherlands,8,A
+3,2022,11/21/2022,Group stage,England,5,B,FALSE,Iran,20,B
+4,2022,11/21/2022,Group stage,United States,16,B,FALSE,Wales,19,B
+5,2022,11/22/2022,Group stage,France,4,D,FALSE,Australia,38,D
+6,2022,11/22/2022,Group stage,Denmark,10,D,FALSE,Tunisia,30,D
+7,2022,11/22/2022,Group stage,Mexico,13,C,FALSE,Poland,26,C
+8,2022,11/22/2022,Group stage,Argentina,3,C,FALSE,Saudi Arabia,51,C
+9,2022,11/23/2022,Group stage,Belgium,2,F,FALSE,Canada,41,F
+10,2022,11/23/2022,Group stage,Spain,7,E,FALSE,Costa Rica,31,E
+11,2022,11/23/2022,Group stage,Germany,11,E,FALSE,Japan,24,E
+12,2022,11/23/2022,Group stage,Morocco,22,F,FALSE,Croatia,12,F
+13,2022,11/24/2022,Group stage,Switzerland,15,G,FALSE,Cameroon,43,G
+14,2022,11/24/2022,Group stage,Uruguay,14,H,FALSE,South Korea,28,H
+15,2022,11/24/2022,Group stage,Portugal,9,H,FALSE,Ghana,61,H
+16,2022,11/24/2022,Group stage,Brazil,1,G,FALSE,Serbia,21,G
+17,2022,11/25/2022,Group stage,Iran,20,B,FALSE,Wales,19,B
+18,2022,11/25/2022,Group stage,Qatar,50,A,TRUE,Senegal,18,A
+19,2022,11/25/2022,Group stage,Netherlands,8,A,FALSE,Ecuador,44,A
+20,2022,11/25/2022,Group stage,England,5,B,FALSE,United States,16,B
+21,2022,11/26/2022,Group stage,Tunisia,30,D,FALSE,Australia,38,D
+22,2022,11/26/2022,Group stage,Poland,26,C,FALSE,Saudi Arabia,51,C
+23,2022,11/26/2022,Group stage,France,4,D,FALSE,Denmark,10,D
+24,2022,11/26/2022,Group stage,Argentina,3,C,FALSE,Mexico,13,C
+25,2022,11/27/2022,Group stage,Japan,24,E,FALSE,Costa Rica,31,E
+26,2022,11/27/2022,Group stage,Belgium,2,F,FALSE,Morocco,22,F
+27,2022,11/27/2022,Group stage,Croatia,12,F,FALSE,Canada,41,F
+28,2022,11/27/2022,Group stage,Spain,7,E,FALSE,Germany,11,E
+29,2022,11/28/2022,Group stage,Serbia,21,G,FALSE,Cameroon,43,G
+30,2022,11/28/2022,Group stage,South Korea,28,H,FALSE,Ghana,61,H
+31,2022,11/28/2022,Group stage,Brazil,1,G,FALSE,Switzerland,15,G
+32,2022,11/28/2022,Group stage,Portugal,9,H,FALSE,Uruguay,14,H
+33,2022,11/29/2022,Group stage,England,5,B,FALSE,Wales,19,B
+34,2022,11/29/2022,Group stage,Iran,20,B,FALSE,United States,,B
+35,2022,11/29/2022,Group stage,Ecuador,44,A,FALSE,Senegal,18,A
+36,2022,11/29/2022,Group stage,Qatar,50,A,TRUE,Netherlands,8,A
+37,2022,11/30/2022,Group stage,Denmark,10,D,FALSE,Australia,38,D
+38,2022,11/30/2022,Group stage,Tunisia,30,D,FALSE,France,4,D
+39,2022,11/30/2022,Group stage,Poland,26,C,FALSE,Argentina,3,C
+40,2022,11/30/2022,Group stage,Saudi Arabia,51,C,FALSE,Mexico,13,C
+41,2022,12/1/2022,Group stage,Croatia,12,F,FALSE,Belgium,2,F
+42,2022,12/1/2022,Group stage,Canada,41,F,FALSE,Morocco,22,F
+43,2022,12/1/2022,Group stage,Japan,24,E,FALSE,Spain,7,E
+44,2022,12/1/2022,Group stage,Costa Rica,31,E,FALSE,Germany,11,E
+45,2022,12/2/2022,Group stage,Ghana,61,H,FALSE,Uruguay,14,H
+46,2022,12/2/2022,Group stage,South Korea,28,H,FALSE,Portugal,9,H
+47,2022,12/2/2022,Group stage,Serbia,21,G,FALSE,Switzerland,15,G
+48,2022,12/2/2022,Group stage,Brazil,1,G,FALSE,Cameroon,43,G
+49,2022,12/3/2022,Round of 16,1A,,,,2B,,
+50,2022,12/3/2022,Round of 16,1C,,,,2D,,
+51,2022,12/4/2022,Round of 16,1B,,,,2A,,
+52,2022,12/4/2022,Round of 16,1D,,,,2C,,
+53,2022,12/5/2022,Round of 16,1E,,,,2F,,
+54,2022,12/5/2022,Round of 16,1G,,,,2H,,
+55,2022,12/6/2022,Round of 16,1F,,,,2E,,
+56,2022,12/6/2022,Round of 16,1H,,,,2G,,
+57,2022,12/9/2022,Quarter-finals,W49,,,,W50,,
+58,2022,12/9/2022,Quarter-finals,W53,,,,W54,,
+59,2022,12/10/2022,Quarter-finals,W51,,,,W52,,
+60,2022,12/10/2022,Quarter-finals,W55,,,,W56,,
+61,2022,12/13/2022,Semi-finals,W57,,,,W58,,
+62,2022,12/14/2022,Semi-finals,W59,,,,W60,,
+63,2022,12/17/2022,Third place,L61,,,,L62,,
+64,2022,12/18/2022,Final,W61,,,,W62,,
